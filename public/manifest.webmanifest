@@ -1,0 +1,10 @@
+{
+  "name": "Juris",
+  "short_name": "Juris",
+  "lang": "pt-BR",
+  "start_url": "/inicio",
+  "display": "standalone",
+  "background_color": "#f8f9fc",
+  "theme_color": "#1b2a4a",
+  "icons": [{ "src": "/favicon.ico", "sizes": "64x64", "type": "image/x-icon" }]
+}
